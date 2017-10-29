@@ -1,0 +1,8 @@
+{
+  "name": "LearningJavascript",
+  "main": "main.js",
+  "dependencies": {
+    "mocha": "^4.0.1",
+    "mochawesome": "^2.3.1"
+  }
+}
