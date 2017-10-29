@@ -1,5 +1,6 @@
 /**
  * 原型
+ * https://github.com/mqyqingfeng/Blog/issues/2
  */
 'use strict';
 
