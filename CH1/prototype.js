@@ -61,6 +61,6 @@ describe("对象的_proto_和prototype属性", function(){
   it("Function.__proto__ === Function.prototype", function(){
     assert( Function.__proto__ === Function.prototype );
     assert( Function.hasOwnProperty('__proto__') === false );
-    console.log( Function.__proto__, Function.prototype, Object.getPrototypeOf(Function) );
+    // console.log( Function.__proto__, Function.prototype, Object.getPrototypeOf(Function) );
   });
 });
